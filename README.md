@@ -13,6 +13,8 @@ A note-taking application
 * [Tests](#tests)
 * [Questions](#questions)
 
+![zookeepr](https://user-images.githubusercontent.com/62676730/100020088-1410ff00-2d94-11eb-8f52-45080db0a382.PNG)
+
 ## Installation
 
 App will be available through Heroku. If you want to download the code, just remember to 'npm install' after you clone the repository!
